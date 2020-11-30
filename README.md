@@ -4,7 +4,8 @@
 ---
 MinIO is object storage server. 
 ---
-sardine : Sardine is useful for interacting with a webdav server and is much easier to programmatically manage remote files than with FTP.
+sardine :
+Sardine is useful for interacting with a webdav server and is much easier to programmatically manage remote files than with FTP.
 ---
 Consistent hashing : https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062
 
