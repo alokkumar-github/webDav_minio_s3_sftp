@@ -12,5 +12,5 @@ Consistent hashing : https://medium.com/system-design-blog/consistent-hashing-b9
 
 how to mount the disk 
 
-for non-aws we need to implement cosistent hashing and we need minio servers ( multiple pods ).
+for non-aws we need to implement cosistent hashing and we need minio servers ( multiple pods or containers ).
 for aws we don't implememt as we will connect S3 bucket and minio client to connect it . 
