@@ -1,5 +1,6 @@
 # webDav_minio_s3_sftp
 
+how to mount the same disk 
 ---
 MinIO is object storage server. 
 ---
